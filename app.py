@@ -8,7 +8,7 @@ app.config["DEBUG"] = True
 @app.route("/hello")
 
 def hello_world():
-	return "Hello, World! I am Prince Amaning"
+	return "Hello, World! I am Prince Opoku Amaning "
 
 @app.route("/test")
 def search():
